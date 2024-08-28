@@ -38,6 +38,11 @@ Tableau: Leveraged for advanced visualization techniques to create engaging and 
 This project aims to provide actionable insights into the restaurant industry by leveraging advanced data analysis and visualization tools. The structured approach to data aggregation and visualization will help stakeholders make informed decisions based on clear, data-driven insights.
 Conclusion
 This project demonstrates how advanced data analysis and visualization tools can provide valuable insights into the restaurant industry. The comprehensive reports and dashboards developed offer stakeholders the ability to make informed decisions based on clear, data-driven insights. By understanding customer preferences, operational trends, and market dynamics, restaurant operators can optimize their strategies for better performance.
+![Screenshot 2024-05-22 121706](https://github.com/user-attachments/assets/3e3f5df7-4e6d-4903-97ba-38df0ebb00a3)
+![Screenshot 2024-05-22 121706](https://github.com/user-attachments/assets/f6e09919-5f0c-40c3-a43f-fedb8a0f8878)
+![Screenshot 2024-05-22 121706](https://github.com/user-attachments/assets/a7ae9f66-f66a-468e-8d3a-29b22163d52a)
+
+
 
 
 
